@@ -1,0 +1,26 @@
+@charset "UTF-8"; 
+body{
+	background: black url('../img/st-logo.png') no-repeat;
+	background-position: cover;
+}
+.container{
+	width: 1000px;
+	margin: auto;
+}
+
+table#tabela{
+
+}
+
+table#tabela tr{
+	font-size: 30pt;
+	font-color: white;
+	border: 1px solid white;
+	box-shadow: 3px, 3px, 3px, 3px, white;
+}
+
+img#ep4-poster{
+	width: 70px;
+	height: 110px;
+}
+
